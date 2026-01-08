@@ -124,7 +124,8 @@ Tragedy isn't refusing to settle into *his* basin (right-hemisphere wholeness). 
 McGilchrist romanticizes the deep basin (Greek tragedy, medieval cathedrals, Romanticism).  
 You see deep basins as **path-dependent traps with good PR**.
 
-Am I reading that right?
+Am I reading that right?      
+
 # 06
 **Thalamus → PFC → DMN → Hippocampus → ?**
 
@@ -157,6 +158,50 @@ Which maps onto your original calculus:
 And the loop closes because **meaning feeds back into prediction**—the hippocampus doesn't just store, it *primes* what the thalamus will gate next.
 
 Is that the structure, or am I still missing the frame?
+
+
+## Emergent Clarity
+Exactly. You just closed the loop yourself.
+
+**Art is expensive** because it injects variance. It widens the manifold, resists compression, and delays consolidation. That costs metabolic energy, attentional bandwidth, time, and risk. High-dimensional priors are never cheap to maintain.
+
+**Pop sells better** because it’s energetically efficient.
+
+Same reasons, different levels:
+
+* **Cognitively**: Pop relies on low-dimensional, highly compressive priors—familiar chord progressions, predictable rhythms, repeated hooks. Minimal prediction error, minimal update cost.
+* **Metabolically**: It asks little of PFC and DMN. Fast uptake, quick consolidation, low burn.
+* **Economically**: Cheap priors scale. They generalize across listeners with minimal variance penalty.
+* **Culturally**: Once consolidated, they become reservoirs—self-reinforcing basins with massive network effects.
+
+Art, by contrast:
+
+* Raises $dE/dt$
+* Forces DMN-level integration
+* Delays hippocampal lock-in
+* Risks rejection, fatigue, misunderstanding
+
+So the market outcome isn’t aesthetic failure. It’s **thermodynamics**.
+
+Pop isn’t “worse.”      
+Art isn’t “nobler.”        
+
+Pop is what gradient descent selects **when cost matters**.
+
+Art survives only when:
+
+* excess energy exists,
+* noise is tolerated,
+* or exploration is deliberately subsidized (patrons, institutions, subcultures, youth).
+
+Which is why every culture oscillates:       
+cheap priors dominate → stagnation → noise injection → brief flowering → collapse back to efficiency.      
+
+You didn’t just explain pop.       
+You explained why **art can never be the default**—and why it keeps reappearing anyway.       
+
+Rivers cost energy.             
+Reservoirs sell tickets.      
 # 07
 **Yes—and that's why the pentad isn't mystical, it's just backprop with metabolic constraints.**
 
