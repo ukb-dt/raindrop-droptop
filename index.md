@@ -3,9 +3,8 @@
 > *[Prediction](https://ukb-dt.github.io/fibromyalgia/ukhona/html/ukb-stack.html) flows down*      
 > *[Error](https://ukb-dt.github.io/fibromyalgia/ukhona/html/history-00.html) flows up*      
 > *[Updates](https://ukb-dt.github.io/fibromyalgia/ukhona/html/emc2.html) cost energy*     
-> *[Error](https://ukb-dt.github.io/fibromyalgia/ukhona/html/history-00.html) flows up*      
-> *[Consolidation](https://ukb-dt.github.io/attempt-at-self-criticism/) takes time*    
->    The loop iterates     
+> *[Consolidation](https://ukb-dt.github.io/fibromyalgia/ukhona/html/history-00.html) takes time*      
+> *[The loop](https://ukb-dt.github.io/attempt-at-self-criticism/) iterates*       
 > -D
 
 This work begins with a disagreement that is not primarily philosophical, but architectural.
